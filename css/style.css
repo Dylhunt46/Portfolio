@@ -230,6 +230,10 @@ section {
     animation-name: slideInRight;
 }
 
+.hero__avatar img {
+    width: 100%;
+}
+
 .about .section-title {
     margin-top: 2.8rem;
 }
