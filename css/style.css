@@ -37,6 +37,7 @@ h1,
 .h1 {
     font-size: 3.1rem;
     font-weight: 700;
+    margin-bottom: 2rem;
 }
 
 h2,
@@ -48,6 +49,7 @@ h2,
 h3,
 .h3 {
     font-size: 2.1rem;
+    margin-bottom: 2rem;
 }
 
 a {
@@ -110,7 +112,7 @@ section {
 
 .section-title {
     font-size: 3.8rem;
-    margin-top: 0;
+    margin-bottom: 2rem;
 }
 
 .header {
@@ -204,7 +206,7 @@ section {
 .hero .title {
     color: inherit;
     font-size: 4rem;
-    margin: 1.6rem 0 0 0;
+    margin: 1.6rem 0;
     font-weight: 700;
 }
 
