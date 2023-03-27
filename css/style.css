@@ -248,6 +248,10 @@ section {
     text-align: center;
 }
 
+.service {
+    margin-bottom: 2rem;
+}
+
 .service__icon {
     display: flex;
     align-items: center;
@@ -576,7 +580,7 @@ footer .socials a:hover {
     }
 
     .service__icon {
-        margin: 0 auto;
+        margin: 0 auto 2rem;
     }
 
     .portfolio a {
